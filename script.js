@@ -163,7 +163,7 @@ function mensagemDinamica(){
         }else if(tempNumero <= 20){
             texto= 'Clima agradável, mas instável. Dá para usar manga curta, mas leve um casaquinho leve só por precaução.';
         }else if(tempNumero <= 25){
-            texto= 'Temperatura agradável! Clima confortável para usar camisetas e roupas leves, aproveite o dia.';
+            texto= 'Temperatura agradável! Clima confortável para usar camisetas e roupas leves.';
         }else if(tempNumero <= 30){
             texto= 'O calor está começando a aparecer. Roupas frescas são bem-vindas e não esqueça de beber água.';
         }else if(tempNumero <= 35){
